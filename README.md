@@ -1,5 +1,3 @@
-# Movie_Recommendation_System :
-https://medium.com/geekculture/end-to-end-movie-recommendation-system-49b29a8b57ac#:~:text=This%20method%20uses%20attributes%20of,can%20be%20recommended%20right%20away.
 
 STEP 1:Data Scraping
 
@@ -28,11 +26,4 @@ Application url- http://35.230.8.59/
 
 This application frontend is dynamic and changes based on system theme.If you want the same appearance as seen in above image please go to settings in the top right corner of this application and change the theme to dark.
 
-
-
-P.S-This is a simple model built out of curiosity.There are lot more complex and advanced algorithms that could be implemented to create a recommendation engine.
-
-I hope this a stepping stone for more advanced things.
-
-Happy Learning!
 
